@@ -152,9 +152,3 @@ choropleth(up2, up2$death, main = "# of Deaths in UP")
 choro.legend(px = 'bottomleft', sh=myshading, fmt = "%4.1f", cex=0.8)
 
 
-
-
-
-
-#
-
